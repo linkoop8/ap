@@ -7,9 +7,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/username/shadowsocks-ws.git"
+    "url": "git+https://github.com/linkoop8/shadowsocks-ws.git"
   },
-  "homepage": "https://github.com/username/shadowsocks-ws",
+  "homepage": "https://github.com/linkoop8/shadowsocks-ws",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
